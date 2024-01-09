@@ -1,0 +1,258 @@
+@media (max-width:768px){
+    .main-container{
+        width:100%;
+        height:auto;
+        padding-inline:30px;
+    }
+
+    .navbar{
+        width:100%;
+        height:60px;
+    }
+
+    .navbar h3{
+        font-size:25px
+
+    }
+
+    .navbar ul{
+        display:none;
+    }
+
+    .navbar h4{
+        font-size:17px;
+    }
+
+    .page{
+        width:100%;
+        height:700px;
+        padding-inline:50px;
+        display: flex;
+        align-items:center;
+        justify-content:center;
+        flex-direction:column;  
+    }
+        
+    .page-1{
+        width:100%;
+        height:350px;
+    }
+
+    .page-1 img{
+        width:100%;
+        height:100%;
+    }
+
+    .page-2{
+        width:100%;
+        height:350px;
+        display:flex;
+        align-items:center;
+        
+        flex-direction: column;
+    }
+
+    .page-2 h2{
+        font-size:30px;
+        text-align:center;      
+    }
+
+    .page-2 h1{
+        font-size:50px;
+        text-align: center;
+        padding-left:00px;
+    }
+
+    .page-2 button{
+        width:260px;
+        height:50px;
+        font-size:16px;
+        margin-left:0px;   
+    }
+
+    .box{
+        width:100%;
+        height:800px;
+        flex-direction: column;
+    }
+
+    .box-1{
+        width:100%;
+        height:300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        
+    }
+
+    .lux-1{
+        width:100%;
+        
+    }
+    .lux-1 h1{
+        font-size:30px;
+        text-align: center;   
+    }
+
+    .lux-2 {
+        width:100%;
+        text-align: center;  
+    }
+
+    .lux-2 button{
+        font-size:20px;
+        text-align: center;
+
+    }
+
+    .box-2{
+        width:100%;  
+    }
+
+    .box-2 h2{
+        text-align: center;
+        padding:0px;
+        margin-top:8px;
+
+    }
+    .bottle{
+        width:60%;
+    }
+
+    .bottle img{
+        width:70%;
+        height:295px;
+    }
+}
+
+
+@media (max-width:480px){
+    .main-container{
+        width:100%;
+        height:auto;
+        padding-inline:20px;
+    }
+
+    .navbar{
+        width:100%;
+        height:60px;
+    }
+
+    .navbar h3{
+        font-size:22px
+
+    }
+
+    .navbar ul{
+        display:none;
+    }
+
+    .navbar h4{
+        font-size:17px;
+    }
+
+    .page{
+        width:100%;
+        height:700px;
+        padding-inline:10px;
+        display: flex;
+        align-items:center;
+        justify-content:center;
+        flex-direction:column;  
+    }
+        
+    .page-1{
+        width:100%;
+        height:250px;
+    }
+
+    .page-1 img{
+        width:100%;
+        height:100%;
+    }
+
+    .page-2{
+        width:100%;
+        height:300px;
+        display:flex;
+        align-items:center;
+        
+        flex-direction: column;
+    }
+
+    .page-2 h2{
+        font-size:25px;
+        text-align:center;      
+    }
+
+    .page-2 h1{
+        font-size:30px;
+        text-align: center;
+        padding-left:00px;
+    }
+
+    .page-2 button{
+        width:200px;
+        height:40px;
+        font-size:16px;
+        margin-left:0px;   
+    }
+
+    .box{
+        width:100%;
+        height:900px;
+        flex-direction: column;
+    }
+
+    .box-1{
+        width:100%;
+        height:500px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        
+    }
+
+    .lux-1{
+        width:100%;
+        
+    }
+    .lux-1 h1{
+        font-size:25px;
+        text-align: center; 
+        
+    }
+
+    .lux-2 {
+        width:100%;
+        text-align: center;  
+    }
+
+    .lux-2 button{
+        font-size:20px;
+        text-align:start;
+      
+
+    }
+
+    .box-2{
+        width:100%;  
+    }
+
+    .box-2 h2{
+        text-align: center;
+        padding:0px;
+        margin-top:8px;
+
+    }
+    .bottle{
+        width:60%;
+    }
+
+    .bottle img{
+        width:70%;
+        height:295px;
+    }
+}
